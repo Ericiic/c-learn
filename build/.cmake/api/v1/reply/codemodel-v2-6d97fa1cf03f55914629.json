@@ -1,0 +1,144 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "sublibrary1",
+					"jsonFile" : "directory-sublibrary1-Debug-398fabfaa846e72a324b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "sublibrary1",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "sublibrary2",
+					"jsonFile" : "directory-sublibrary2-Debug-3724fd4281954ec46586.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "sublibrary2"
+				},
+				{
+					"build" : "subbinary",
+					"jsonFile" : "directory-subbinary-Debug-12988cb81fcb57a5c3fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "subbinary",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "subprojects"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "sublibrary1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "sublibrary2",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "subbinary",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "subbinary::@870c7abe3a555e96753e",
+					"jsonFile" : "target-subbinary-Debug-fb2a0044e19670b740ee.json",
+					"name" : "subbinary",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sublibrary1::@2ee3dc203ba9d81bf0d4",
+					"jsonFile" : "target-sublibrary1-Debug-7b5485cdba71029c3095.json",
+					"name" : "sublibrary1",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/luoxunxing/Desktop/GITHUB_MODULE/cmake-examples-master/02-sub-projects/A-basic/build",
+		"source" : "D:/Users/luoxunxing/Desktop/GITHUB_MODULE/cmake-examples-master/02-sub-projects/A-basic"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

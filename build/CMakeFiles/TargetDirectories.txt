@@ -1,0 +1,10 @@
+D:/Users/luoxunxing/Desktop/GITHUB_MODULE/cmake-examples-master/02-sub-projects/A-basic/build/CMakeFiles/edit_cache.dir
+D:/Users/luoxunxing/Desktop/GITHUB_MODULE/cmake-examples-master/02-sub-projects/A-basic/build/CMakeFiles/rebuild_cache.dir
+D:/Users/luoxunxing/Desktop/GITHUB_MODULE/cmake-examples-master/02-sub-projects/A-basic/build/sublibrary1/CMakeFiles/sublibrary1.dir
+D:/Users/luoxunxing/Desktop/GITHUB_MODULE/cmake-examples-master/02-sub-projects/A-basic/build/sublibrary1/CMakeFiles/edit_cache.dir
+D:/Users/luoxunxing/Desktop/GITHUB_MODULE/cmake-examples-master/02-sub-projects/A-basic/build/sublibrary1/CMakeFiles/rebuild_cache.dir
+D:/Users/luoxunxing/Desktop/GITHUB_MODULE/cmake-examples-master/02-sub-projects/A-basic/build/sublibrary2/CMakeFiles/edit_cache.dir
+D:/Users/luoxunxing/Desktop/GITHUB_MODULE/cmake-examples-master/02-sub-projects/A-basic/build/sublibrary2/CMakeFiles/rebuild_cache.dir
+D:/Users/luoxunxing/Desktop/GITHUB_MODULE/cmake-examples-master/02-sub-projects/A-basic/build/subbinary/CMakeFiles/subbinary.dir
+D:/Users/luoxunxing/Desktop/GITHUB_MODULE/cmake-examples-master/02-sub-projects/A-basic/build/subbinary/CMakeFiles/edit_cache.dir
+D:/Users/luoxunxing/Desktop/GITHUB_MODULE/cmake-examples-master/02-sub-projects/A-basic/build/subbinary/CMakeFiles/rebuild_cache.dir

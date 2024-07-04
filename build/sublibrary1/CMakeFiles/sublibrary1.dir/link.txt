@@ -1,0 +1,2 @@
+D:/driver/mingw64/bin/ar.exe qc libsublibrary1.a CMakeFiles/sublibrary1.dir/src/sublib1.cpp.obj
+D:/driver/mingw64/bin/ranlib.exe libsublibrary1.a
